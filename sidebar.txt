@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eza:home|Door43 (eza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eza|d43-eza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eza/archive/master.zip|d43-eza.zip]]
+
+**Recent Changes**
+{{changes>ns = eza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eza|Ethnologue data]]
+
